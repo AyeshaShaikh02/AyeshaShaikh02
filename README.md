@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Ayesha Shaikh</h1>
 <h3 align="center">Azure Data Engineer | ETL Developer | Big Data Enthusiast</h3>
 
--Working on ** Azure Cloud Data Engineering ** Projects
+- Working on ** Azure Cloud Data Engineering ** Projects
 
 - I’m looking to collaborate on **Cloud Engineering projects**
 
 - Looking to collaborate on Cloud & Data Engineering projects
 
--  Continuously learning and exploring Advanced Azure Data Engineering & Big Data frameworks
+- Continuously learning and exploring Advanced Azure Data Engineering & Big Data frameworks
 
 - All of my projects are available at [https://github.com/AyeshaShaikh02](https://github.com/AyeshaShaikh02)
 
