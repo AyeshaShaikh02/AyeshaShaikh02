@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Ayesha Shaikh  
+### 🚀 Azure Data Engineer | ETL Developer | Big Data Enthusiast
 
-<!--
-**AyeshaShaikh02/AyeshaShaikh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate Azure Data Engineer specializing in building scalable cloud data solutions using modern data platforms and big data technologies.
+🔹 Experienced in designing ETL/ELT pipelines, Lakehouse architectures, and analytics-ready data models.
 
-Here are some ideas to get you started:
+## 💼 What I’m Currently Doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working on Azure Cloud Data Engineering Projects
+
+- Looking to collaborate on Cloud & Data Engineering projects
+
+- Continuously learning and exploring Advanced Azure Data Engineering & Big Data frameworks
+- 📫 Reach me at: **ayeshashaikh2048@gmail.com**
+
+
+
+
+
+
+  
