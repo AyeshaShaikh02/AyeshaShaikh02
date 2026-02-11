@@ -38,7 +38,7 @@ Passionate about building scalable data solutions using Azure Cloud and modern B
 
   <!-- Azure Databricks -->
   <a href="https://azure.microsoft.com/en-us/products/databricks/" target="_blank">
-    <img src="https://www.databricks.com/wp-content/uploads/2020/04/og-databricks.png" alt="Azure Databricks" width="50" height="50"/>
+    <img src="https://az-icons.com/export/icons/d180faa9ddc77cb9e841ff02998e5e21.svg" alt="Azure Databricks" width="50" height="50"/>
   </a>
 
   <!-- Microsoft Fabric -->
