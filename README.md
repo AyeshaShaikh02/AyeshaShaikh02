@@ -53,7 +53,7 @@ Passionate about building scalable data solutions using Azure Cloud and modern B
 
   <!-- PySpark (Spark icon used) -->
   <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="PySpark" width="50" height="50"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4E12AQFtZj1vp_moUQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1729868952646?e=2147483647&v=beta&t=0uW92lCsBMvN4RBu_oDEKqdk_aU6I-iQMhVHIWmgtu0" alt="PySpark" width="50" height="50"/>
   </a>
 
   <!-- Python -->
