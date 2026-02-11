@@ -68,7 +68,7 @@ Passionate about building scalable data solutions using Azure Cloud and modern B
 
   <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://brandlogos.net/wp-content/uploads/2025/04/microsoft_power_bi-logo_brandlogos.net_1gwgj-512x667.png" alt="Power BI" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/250px-New_Power_BI_Logo.svg.png" alt="Power BI" width="50" height="50"/>
   </a>
 
 </p>
