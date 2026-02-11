@@ -68,7 +68,7 @@ Passionate about building scalable data solutions using Azure Cloud and modern B
 
   <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="50" height="50"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeqEp2wHOkreX0WvGbYTXc-XR0HURE_TZnjU396NQTqXoxXvbJlvhpWQsmen8RJUiy1hQ&usqp=CAU" alt="Power BI" width="50" height="50"/>
   </a>
 
 </p>
